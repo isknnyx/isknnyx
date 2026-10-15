@@ -1,16 +1,25 @@
-## Hi there 👋
+Olá! Eu sou a Kauany 👋
 
-<!--
-**isknnyx/isknnyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Estudante de Jogos Digitais | Desenvolvedora em formação
 
-Here are some ideas to get you started:
+## Sobre mim
+- Estudo no CEPI Osvaldo da Costa Meireles.
+- Faço curso de Jogos Digitais.
+- Já desenvolvi vários jogos e continuo aprimorando minhas habilidades.
+- Meu principal foco atualmente é o Safra Pro, um projeto em desenvolvimento.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projeto em destaque: Safra Pro
+O Safra Pro é meu principal projeto no momento e ainda está em desenvolvimento. Em futuras atualizações, adicionarei uma descrição detalhada, imagens e informações sobre suas funcionalidades.
+
+Status: Em desenvolvimento 🚧
+
+## Outros projetos
+Também desenvolvi outros jogos durante meus estudos e vou organizá-los aqui no GitHub.
+
+## Tecnologias
+Esta seção será atualizada conforme eu documentar as tecnologias utilizadas em meus projetos.
+
+## Contato
+Acompanhe meus estudos e projetos por aqui no GitHub.
+
+✨ Aprendendo, criando e evoluindo um projeto de cada vez. ✨
