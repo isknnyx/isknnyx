@@ -21,5 +21,6 @@ Esta seção será atualizada conforme eu documentar as tecnologias utilizadas e
 
 ## Contato
 Acompanhe meus estudos e projetos por aqui no GitHub.
+ou visite meu Instagram/ @_kauany_zz
 
 ✨ Aprendendo, criando e evoluindo um projeto de cada vez. ✨
